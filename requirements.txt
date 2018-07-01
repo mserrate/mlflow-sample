@@ -1,0 +1,6 @@
+pandas
+xgboost
+mlflow
+sklearn
+matplotlib
+seaborn

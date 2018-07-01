@@ -1,0 +1,33 @@
+*.ipynb
+train_old.py
+
+# Mlflow
+mlruns/
+outputs/
+
+# Mac
+.DS_Store
+
+# Byte-compiled / optimized / DLL files
+__pycache__
+*.py[cod]
+*$py.class
+
+# Environments
+env
+env3
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+.python-version
+
+# Editor files
+.*project
+*.swp
+*.swo
+*.idea
+*.vscode
